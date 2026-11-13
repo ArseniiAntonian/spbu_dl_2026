@@ -1,0 +1,7 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+epoch 1/5 loss=2.3925 267s
+epoch 2/5 loss=1.3743 77s val macro-F1=0.8542 acc=0.8542
+epoch 3/5 loss=1.0208 74s
+epoch 4/5 loss=0.8430 92s val macro-F1=0.9525 acc=0.9537
+epoch 5/5 loss=0.7679 75s val macro-F1=0.9583 acc=0.9605
+saved to /Users/arseniiantonian/IT/spbu_dl_2026/competitions/one_piece/outputs/siglip_ft_f0

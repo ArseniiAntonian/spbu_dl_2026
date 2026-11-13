@@ -1,0 +1,1 @@
+{"model": "vit_base_patch16_siglip_224.v2_webli", "img_size": 224, "fold": 0, "epochs": 6, "batch_size": 32, "lr": 3e-05, "layer_decay": 0.75, "drop_path": 0.1, "init_head": true, "max_steps": 0, "run": "siglip_lpft_f0"}

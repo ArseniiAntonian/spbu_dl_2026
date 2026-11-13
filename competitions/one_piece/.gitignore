@@ -1,0 +1,4 @@
+__pycache__/
+# не влезают в лимит GitHub (100 МБ на файл), пересобираются скриптами
+outputs/cache_384.pkl
+outputs/*/model.pt

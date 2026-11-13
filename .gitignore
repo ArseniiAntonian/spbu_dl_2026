@@ -1,0 +1,5 @@
+.conda/
+__pycache__/
+notebooks/data/
+# данные соревнований Kaggle не публикуем
+one-piece-classification-2026/
